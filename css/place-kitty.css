@@ -26,9 +26,9 @@
   left: 455px;
 }
 
-/* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
+/* Select the image that has an attribute value matching "Kitty 5" (using attributattributeector) */
 
-input [type = “text”] {
+attribute [type = “text”] {
   position: absolute;
   z-index: 3;
   top: 217px;
